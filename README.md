@@ -163,8 +163,9 @@ docker pull tomeferreira/tp-sistemas-distribuidos-api:v1.0.0
 | docker-compose.prod.yml
 | docker-compose.yml
 | Dockerfile
-| TP_SISTEMAS_DISTRIBUIDOS_V5.sln
 | README.md
+| TP_SISTEMAS_DISTRIBUIDOS.postman_collection.json
+| TP_SISTEMAS_DISTRIBUIDOS_V5.sln
 ```
 ---
 
