@@ -5,7 +5,7 @@ services:
     - "5003:8080"
    environment:
     - ASPNETCORE_URLS=http://+:8080
-    - ASPNETCORE_ENVIRONMENT=Development
+    - ASPNETCORE_ENVIRONMENT=Production
     - ConnectionStrings__DefaultConnection=Host=postgresDb;username=postgres;password=RenaultClio19d;database=WorkerDb; TrustServerCertificate=true
    depends_on:
     - postgresDb
