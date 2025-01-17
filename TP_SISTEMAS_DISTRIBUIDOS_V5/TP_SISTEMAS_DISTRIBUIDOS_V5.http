@@ -1,0 +1,6 @@
+@TP_SISTEMAS_DISTRIBUIDOS_V5_HostAddress = http://localhost:5166
+
+GET {{TP_SISTEMAS_DISTRIBUIDOS_V5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
