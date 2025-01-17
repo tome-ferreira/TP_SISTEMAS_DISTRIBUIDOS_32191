@@ -4,7 +4,7 @@ Este projeto é uma aplicação distribuída que implementa uma API RESTful util
 
 ---
 
-## Informações Acadêmicas
+## Informações Académicas
 
 - **Unidade Curricular**: Serviços Distribuídos
 - **Professor**: Wenderson Wanzeller
@@ -133,7 +133,7 @@ A API pode ser testada utilizando ferramentas como o Postman ou usando o Swagger
 
 A imagem Docker da aplicação foi publicada no Docker Hub e pode ser baixada diretamente com o comando:
 ```
-docker pull tomeferreira/tp-sistemas-distribuidos-api
+docker pull tomeferreira/tp-sistemas-distribuidos-api:v1.0.0
 ````
 
 ---
